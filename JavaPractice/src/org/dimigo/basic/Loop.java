@@ -42,7 +42,6 @@ public class Loop {
 			System.out.println("메뉴 입력 => ");
 			
 			choice = scanner.nextInt();
-			
 			int gong = 100;
 			
 			switch (choice){
@@ -67,7 +66,6 @@ public class Loop {
 				System.out.println("없는 메뉴");
 				break;
 			}
-			
 			
 			
 		} while (choice != 9 );
