@@ -53,7 +53,6 @@ public class Car2 {
 			return price;
 		}
 		
-		
 		public void setCompany(String newCompany){
 			company = newCompany;
 			

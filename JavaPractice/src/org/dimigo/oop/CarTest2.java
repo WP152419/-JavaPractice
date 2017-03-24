@@ -40,8 +40,6 @@ public class CarTest2 {
 				
 				Car2 car2 = new Car2("기아자동차","K7","흰색",246,40000000);
 				
-			
-		
 				System.out.println("제조사명 : "+ car2.getCompany());
 				System.out.println("모델명 : "+car2.getModel());
 				System.out.println("색상 : "+car2.getColor());
